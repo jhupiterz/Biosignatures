@@ -20,7 +20,9 @@ The codes folder contains:
   * `Catling_multipleTest()` that computes the iterative model displayed above for 15 iterations (default parameter)
   * `Sobol_index()` that computes the Sobol' indices for the model displayed above using the `sobolSalt` method from the R `sensitivity` package.
 
-* (2) `main.R`: computes the Sobol' indices using `Sobol_index()` and displays the 1st (and 2nd) order indices on stacked polygon plots.
+* (2) `main.R`: computes the Sobol' indices using `Sobol_index()` and displays the 1st (and 2nd) order indices on stacked polygon plots (example below).
+
+<img src="images/1st_Order_Sobol.pdf"/>
 
 # References
 
