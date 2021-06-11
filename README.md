@@ -31,5 +31,5 @@ Sobol, I. M., & Levitan, Y. L. (1999). On the use of variance reducing multiplie
 # Credits 
 
 Please cite this work as follows:
-Hartz, J. (2020). Biosignatures in fossil sinters: implications for astrobiology strategies. (In prep) 
+Hartz, J. (2021). Quantitative framework for astrobiology strategies and in situ biogenic assessments (In prep) 
        
