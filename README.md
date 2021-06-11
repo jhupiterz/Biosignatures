@@ -8,7 +8,7 @@ on the basis of `Catling et al. 2018` (full reference below).
 
 The statistical model is based on the iterative Bayesian inference below:
 
-<img src=/>
+<img src="images/formula.png"/>
 
 The Sobol' method is an advanced variance-based sensitivity analysis technique to quantify the interactions between a model\
 variables. For more information about the Sobol' method see `https://en.wikipedia.org/wiki/Variance-based_sensitivity_analysis`.
