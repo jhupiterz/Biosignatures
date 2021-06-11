@@ -20,7 +20,9 @@ The codes folder contains:
   * `Catling_multipleTest()` that computes the iterative model displayed above for 15 iterations (default parameter)
   * `Sobol_index()` that computes the Sobol' indices for the model displayed above using the `sobolSalt` method from the R `sensitivity` package.
 
-* (2) `main.R`: computes the Sobol' indices using `Sobol_index()` and displays the 1st (and 2nd) order indices on stacked polygon plots.
+* (2) `main.R`: computes the Sobol' indices using `Sobol_index()` and displays the 1st (and 2nd) order indices on stacked polygon plots (example below).
+
+<img src="images/1stOrder_plots.pdf"/>
 
 # References
 
@@ -31,5 +33,5 @@ Sobol, I. M., & Levitan, Y. L. (1999). On the use of variance reducing multiplie
 # Credits 
 
 Please cite this work as follows:
-Hartz, J. (2020). Biosignatures in fossil sinters: implications for astrobiology strategies. (In prep) 
+Hartz, J. (2021). Quantitative framework for astrobiology strategies and in situ biogenic assessments (In prep) 
        
