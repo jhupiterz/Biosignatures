@@ -32,6 +32,6 @@ Sobol, I. M., & Levitan, Y. L. (1999). On the use of variance reducing multiplie
 
 # Credits 
 
-Please cite this work as follows:
+Please cite this work as follows:</br>
 Hartz, J., & George, S. C. (2022). Quantitative framework for astrobiology strategies and in situ biogenic assessments. Frontiers in Astronomy and Space Sciences, 30.
        
